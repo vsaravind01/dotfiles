@@ -1,0 +1,4 @@
+alias yarnpkg="/opt/homebrew/Cellar/yarn/1.22.21/bin/yarnpkg"
+alias coa="conda activate"
+alias cod="conda deactivate"
+

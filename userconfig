@@ -1,0 +1,8 @@
+# CASE_SENSITIVE="true"
+# HYPHEN_INSENSITIVE="true"
+
+DISABLE_AUTO_TITLE="true"
+
+HIST_STAMPS="%d/%m/%y %T"
+
+
